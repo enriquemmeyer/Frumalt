@@ -6,8 +6,7 @@ output: html_document
 ---
 
 ```{r setup, include=FALSE}
-base_general_de_los_sitios <- read.csv("~/Library/Mobile Documents/com~apple~CloudDocs/CCGS/Manuscritos/MS_Redes_murcis/Bases de datos/#Muestras2/base_general_de_los_sitios.csv")
-base_general_de_los_sitios
+
 
 ```
 
